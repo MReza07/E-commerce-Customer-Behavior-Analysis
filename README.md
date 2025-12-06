@@ -127,14 +127,6 @@ Click Download → Raw to download the .pbix file
 Open it using Power BI Desktop
 
 
-## Explore slicers to filter by:
-
-City
-
-Gender
-
-Membership Type
-
 ## 🌟 Business Value
 
 This dashboard helps E-commerce businesses to:
