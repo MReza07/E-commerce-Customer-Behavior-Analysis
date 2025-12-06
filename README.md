@@ -1,7 +1,5 @@
-# E-commerce-Customer-Behavior-Analysis
-This Report analyzes customer spending, ratings, and behavioral trends across demographics and cities. It helps businesses understand key customer patterns and optimize strategies for improved engagement and retention.
 
-📊 E-commerce Customer Behavior Analysis
+## 📊 E-commerce Customer Behavior Analysis
 
 Power BI Dashboard | Customer Insights | Data-Driven Decision Making
 
@@ -9,7 +7,7 @@ This project presents an interactive E-commerce Customer Behavior Analysis Dashb
 
 It provides actionable insights that support decision-making in marketing, customer segmentation, product strategy, and retention optimization.
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 The goal of this analysis is to uncover how different customer groups behave in terms of:
 
@@ -27,7 +25,7 @@ Impact of Discount Usage
 
 This dashboard transforms raw customer data into clear, meaningful insights for business stakeholders.
 
-📈 Key Insights & Findings
+## 📈 Key Insights & Findings
 
 🔹 1. Customer Demographics & Overview
 
@@ -67,14 +65,8 @@ Customers with a recent purchase (<20 days) tend to give higher ratings.
 
 Longer gaps correlate with lower satisfaction and engagement.
 
-Total Spend by customer & Membership.PNG
 
-License
-
-README.md
-
-
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 Tool	Purpose
 
@@ -88,7 +80,7 @@ CSV Dataset	Customer behavior data
 
 Excel	Initial data checks
 
-📂 Project Structure
+## 📂 Project Structure
 
 Dataset
 
@@ -98,16 +90,15 @@ Report
 
 E-commerce_Customer_Behavior.pbix
 
-Shreenshort-
+Screenshots-
+
+Report.PNG 
 
 Average Ratting By Gender.PNG
 
 Average Ratting by Membership.PNG 
 
-Report.PNG 
-
-
-📊 Key Metrics Used
+## 📊 Key Metrics Used
 
 Total Customer
 
@@ -127,15 +118,16 @@ Spend & Customer Count by Membership
 
 Discount User Segmentation
 
-🔧 How to Use the Report
+## 🚀 How to Open the Dashboard
 
-Download the .pbix file from this repository.
+Navigate to the PBIX folder
 
-Open using Power BI Desktop (latest version).
+Click Download → Raw to download the .pbix file
 
-Ensure the dataset path is correct (Power BI auto-detects the CSV).
+Open it using Power BI Desktop
 
-Explore slicers to filter by:
+
+## Explore slicers to filter by:
 
 City
 
@@ -143,7 +135,7 @@ Gender
 
 Membership Type
 
-🌟 Business Value
+## 🌟 Business Value
 
 This dashboard helps E-commerce businesses to:
 
@@ -157,16 +149,16 @@ Understand regional customer behavior.
 
 Increase sales through targeted promotions.
 
-📬 Contact
+## 📜 License
 
-If you want to connect or discuss analytics work:
+This project is distributed under the MIT License.
 
-Reazul Repon
+## 📬 Contact
 
-📧 your email:reazulrepon@gmail.com
+Md. Rezaul Repon
 
-💼 Portfolio: [GitHub profile link](https://github.com/MReza07)
+Data Analyst – Power BI | SQL | Python
 
-📜 License
+## 📧 Email: reazulrepon@gmail.com
 
-This project is licensed under the MIT License — free to use and modify.
+🔗 GitHub: https://github.com/MReza07
